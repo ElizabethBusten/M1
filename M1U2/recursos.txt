@@ -1,0 +1,2 @@
+ICONOS: https://fontawesome.com/
+FUENTES: https://fonts.google.com/
