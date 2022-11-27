@@ -1,2 +1,3 @@
 ICONOS: https://fontawesome.com/
 FUENTES: https://fonts.google.com/
+GENERADOR CSS: https://cssgenerator.org/filter-css-generator.html
